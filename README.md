@@ -1,2 +1,4 @@
 # themes
-Themes for Visual Studio Code and Sublime in tmtheme and json formats.
+Themes for Visual Studio Code and Sublime in .tmTheme and .json formats.
+
+
